@@ -18,3 +18,5 @@
 - 校验状态文件中不存在目录之外的来源 ID。
 
 来源目录的维护属于国际法检索工具，不属于本控制台。
+
+来源目录的 `local-skills` 分组可能包含 `multi-search-engine`、`web-access`、`agent-browser`、`spider-mind` 等通用联网/浏览器技能；这些技能不由本控制台安装或发布，需从各自上游单独获取。
